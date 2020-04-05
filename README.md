@@ -1,5 +1,6 @@
 # Fichiers 
 Suggestion Texte.py : algorithme en Python // Algorithm with Python
+
 nietzshe.txt : livre sous format texte pour les données d'entrainement // the dataset used with a text book
 
 --------------------------
