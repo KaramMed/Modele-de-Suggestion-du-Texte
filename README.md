@@ -1,3 +1,9 @@
+# Fichiers 
+Suggestion Texte.py : algorithme en Python // Algorithm with Python
+nietzshe.txt : livre sous format texte pour les données d'entrainement // the dataset used with a text book
+
+--------------------------
+
 # Modele-de-Suggestion-du-Texte
 Modele de suggestion du texte manquant avec un Reseau de Neurones Recurrents avec cellules LSTM
 Problématique : determiner le mot suivant d'une séquences de mots
