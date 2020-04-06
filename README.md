@@ -30,6 +30,9 @@ L’entrainement a travers les données issues du livre sera faite d'une maniere
 le mot suivant 
 Exemple : le mot " bon " --> (entrée : b , cible : o) , (entrée : o , cible : n) , (entrée : n , cible : )
 
+
+Technologies utilisés : Python , Deep Learning , LSTM , NLP 
+
 -----------------------------------------------
 
 # Text-Suggestion-Model
@@ -56,6 +59,8 @@ The vector will be the size of the vocabulary, and will have the value of "1" in
 The training through the data from the book will be done in a way that each letter is the entry and target
 the next word
 Example: the word "bon" -> (entry: b, target: o), (entry: o, target: n), (entry: n, target:)
+
+Technologies used : Python , Deep Learning , LSTM , NLP 
 
 
 
